@@ -1,0 +1,5 @@
+log_dir/*
+log_dir_dra/*
+data/*
+*.pyc
+.idea
